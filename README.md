@@ -1,4 +1,4 @@
-# Hi there, I'm Speedprav! 👋
+# Hi there, I'm Pravin Choudhary! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in technology and software development. Here's a bit about me:
 
