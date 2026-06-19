@@ -1,37 +1,52 @@
-# Hi there, I'm Pravin Choudhary! 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in technology and software development. Here's a bit about me:
+###
 
-## 🚀 About Me
-- 🌱 I’m currently learning Cloud computing
-- 💼 I’m currently working on Parul University as a student
-- 👯 I’m looking to collaborate on Projects related to cloud or web pages(front-end)
-- 📫 How to reach me: https://www.instagram.com/choudhary_praveen98/
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 🛠️ Technologies & Tools
-- Programming Languages: [list the programming languages you use, e.g., Python, JavaScript, etc.]
-- Frameworks: [list the frameworks you use, e.g., React, Django, etc.]
-- Tools: [list the tools you use, e.g., Git, Docker, etc.]
+###
 
-## 📈 GitHub Stats
-![Speedprav's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedprav&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=speedprav&theme=onedark)
+###
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pravin-choudhary-427ab9233)
-- [Instagram ](https://www.instagram.com/choudhary_praveen98/)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
-## 📂 Projects
-Here are a few notable projects I've worked on:
-- [Project 1](https://github.com/speedprav/project1): Brief description of Project 1
-- [Project 2](https://github.com/speedprav/project2): Brief description of Project 2
-- [Project 3](https://github.com/speedprav/project3): Brief description of Project 3
+###
 
-## 💬 Let's Chat!
-Feel free to reach out if you want to discuss anything related to tech, projects, or collaboration opportunities. I'm always open to new ideas and conversations!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-Thanks for visiting my profile! Have a great day! 😄
+###
